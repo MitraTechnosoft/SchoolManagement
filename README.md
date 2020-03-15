@@ -1,0 +1,2 @@
+# SchoolManagement
+Working for society. 
